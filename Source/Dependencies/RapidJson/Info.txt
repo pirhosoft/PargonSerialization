@@ -1,0 +1,4 @@
+RapidJSON
+
+Url: http://rapidjson.org/
+Version: 1.1
